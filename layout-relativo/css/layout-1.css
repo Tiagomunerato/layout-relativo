@@ -1,0 +1,69 @@
+﻿html, body {
+    margin:0;
+    width:auto;
+    height:auto;
+}
+
+.pagina{
+    width:100%;
+    max-width:1175px;
+    height:auto;
+    margin:0 auto;
+}
+
+.espaco-h {
+    margin-left: 25px;
+}
+
+.espaco-v {
+    margin-top: 25px;
+}
+
+.bloco-1{
+    width:100%;
+    height:350px;
+    background:#ff6a00;
+}
+
+.bloco-2{
+    width:375px;
+    height:150px;
+    background:#ff006e;
+    float:left;
+}
+
+.bloco-3 {
+    width: 100%;
+    height: 150px;
+    background: #b200ff;
+}
+
+.bloco-4 {
+    width: 275px;
+    height: 300px;
+    background: #0094ff;
+    float: left;
+}
+
+.bloco-5 {
+    width: 200px;
+    height: 300px;
+    background: #0c4379;
+    float: left;
+}
+
+.bloco-6 {
+    width: 275px;
+    height: 625px;
+    background: #f8b804;
+    float: left;
+}
+
+.limpar{
+    clear:both;
+}
+
+.flutuar{
+    float:left;
+}
+
